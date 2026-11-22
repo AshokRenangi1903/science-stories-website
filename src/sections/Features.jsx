@@ -41,6 +41,10 @@ export default function Features() {
               <span>
                 <i /> Be Curious & Stay Inspired
               </span>
+              <span>
+                <i />
+                Two new Science Stories every month
+              </span>
             </div>
           </div>
           <div className="showcase-phones reveal">
